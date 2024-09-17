@@ -1,4 +1,4 @@
-- name: cofigure mysql server
+- name: cofigure backend server
   hosts: backend
   become: yes
   roles:
